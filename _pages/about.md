@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false #true # includes a list of news items
+selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Bio: I like some stuff and things (dislike more things and stuff). BSU Phys/Chem/Bio grad. Current CU Boulder Physics PhD Student, [DOE CSGF Fellow](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2024-incoming-class), [GEM Associate Fellow](https://www.gemfellowship.org/2023-gem-fellows/#a), and [NSF GRFP Recipient](https://www.research.gov/grfp/AwardeeList.do) '24.
