@@ -247,6 +247,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+
+  -_pages/blog.md #mute blog output
 keep_files:
   - CNAME
   - .nojekyll
