@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle:  _For how might the world sway if I knew just a little bit more of everything._ #<a href='#'>Affiliations</a>.
+subtitle:  *For how might the world sway if I knew just a little bit more of everything.* #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
+     
+    # <p>555 your office number</p> <p>123 your address street</p>
     <p>Boulder, CO</p>
 
 news: false #true # includes a list of news items
