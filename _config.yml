@@ -204,7 +204,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false #true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -249,6 +249,10 @@ exclude:
   - vendor
 
   - _pages/blog.md #mute blog output
+  - _pages/repositories.md
+  - _pages/projects.md
+  - _pages/dropdown.md
+
 keep_files:
   - CNAME
   - .nojekyll
