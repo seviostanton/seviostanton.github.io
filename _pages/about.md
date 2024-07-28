@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I like stuff and things (dislike more things and stuff). BSU Phys/Chem/Bio grad. Current CU Boulder Physics PhD Student, CSGF Fellow, and GEM Associate Fellow 24'.
+I like stuff and things (dislike more things and stuff). BSU Phys/Chem/Bio grad. Current CU Boulder Physics PhD Student, [DOE CSGF Fellow](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2024-incoming-class), GEM Associate Fellow, NSF GRFP Recipient '24.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
