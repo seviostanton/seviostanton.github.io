@@ -17,7 +17,7 @@ news: false #true # includes a list of news items
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Bio: I like some stuff and things (dislike more things and stuff). BSU Phys/Chem/Bio grad and [Top Ten Scholar](https://www.boisestate.edu/alumni/awards-and-scholarships/top-ten-scholars/sevio/), '24. Current CU Boulder Physics PhD Student, [DOE CSGF Fellow](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2024-incoming-class), [GEM Associate Fellow](https://www.gemfellowship.org/2023-gem-fellows/#a), and [NSF GRFP Recipient](https://www.research.gov/grfp/AwardeeList.do) '24.
+Bio: I like some stuff and things (dislike more things and stuff). High school dropout. BSU Phys/Chem/Bio grad and [Top Ten Scholar](https://www.boisestate.edu/alumni/awards-and-scholarships/top-ten-scholars/sevio/), '24. Current CU Boulder Physics PhD Student, [DOE CSGF Fellow](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2024-incoming-class), [GEM Associate Fellow](https://www.gemfellowship.org/2023-gem-fellows/#a), and [NSF GRFP Recipient](https://www.research.gov/grfp/AwardeeList.do) '24.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
