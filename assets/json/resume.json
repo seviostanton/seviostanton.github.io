@@ -61,12 +61,23 @@
       "institution": "Boise State University",
       "location": "Boise, Idaho",
       "url": "https://www.boisestate.edu/coas/",
-      "area": "Phyics, Chemisty, and Biology with Emphases in Astrophysics, Biophysics, Biochemistry, and Cellular, Molecular, & Biomedical Science, with a Minor in Applied Mathematics and Honors from the Honors College",
+      "area": "Triple major in Phyics, Chemisty, and Biology with Emphases in Astrophysics, Biophysics, Biochemistry, and Cellular, Molecular, & Biomedical Science, with a Minor in Applied Mathematics and Honors from the Honors College",
       "studyType": "B.S.",
       "startDate": "2020-06-01",
       "endDate": "2024-05-14",
       "score": "4.0, Summa Cum Laude",
       "courses": ["Classical Mechanics, Thermal Physics, Solid State Physics, Intermediate Quantum Mechanics, Astrophysics, Intro Cosmology, Intro Astronomy, Intro Biophysics, Cellular & Molecular Biophysics, Electromagnetics 1 & 2, Physical Chemistry 1,2, and Lab, Biochem 1, 2, & Lab, Advanced Synthesis, Molecular Nerobiology, Cell Biology, Genetics"]
+    },
+    {
+      "institution": "College of Western Idaho",
+      "location": "Nampa, Idaho",
+      "url": "https://www.boisestate.edu/coas/",
+      "area": "Triple major in STEM, Chemisty, and Biology",
+      "studyType": "B.S.",
+      "startDate": "2018-07-01",
+      "endDate": "2021-07-14",
+      "score": "4.0, Summa Cum Laude",
+      "courses": [""]
     }
   ],
   "awards": [
