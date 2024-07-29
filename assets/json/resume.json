@@ -24,16 +24,16 @@
   },
   "work": [
     {
-      "name": "Department of Energy Krell Institute",
+      "name": "Department of Energy, Krell Institute",
       "position": "CSGF Fellow",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-09-01",
+      "endDate": "2028-08-30",
+      "summary": "Practicum: TBD",
+      "highlights": ["ML, QCD Theory"]
     }
   ],
-  "volunteer": [
+  "volunteer": [//hidden currently
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -47,24 +47,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Colorado Boulder",
+      "location": "Boulder, Colorado",
+      "url": "https://www.colorado.edu/physics/admissions",
+      "area": "High Energy Theory",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-08-26",
+      "endDate": "",
+      "score": "",
+      "courses": ["QM 1, EM 1, Neural Networks"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Computational Science Graduate Fellowship",
+      "date": "2024-04-01",
+      "awarder": "Department of Energy, Krell Institute",
+      "url": "https://www.krellinst.org/csgf/about-doe-csgf/news-events/2024-incoming-class",
+      "summary": "Established in 1991, the Department of Energy Computational Science Graduate Fellowship (DOE CSGF) provides outstanding benefits and opportunities to students pursuing doctoral degrees in fields that use high-performance computing to solve complex science and engineering problems. The program fosters a community of energetic and committed Ph.D. students, alumni, DOE laboratory staff and other scientists who want to have an impact on the nation while advancing their research.'"
     }
   ],
   "certificates": [
