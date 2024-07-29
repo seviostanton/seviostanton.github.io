@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  *For how might the world sway if I knew just a little bit more of everything* #<a href='#'>Affiliations</a>.
+subtitle:  For how might the world sway if I knew just a little bit more of everything #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
