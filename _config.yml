@@ -644,11 +644,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  - #projects
   - #volunteer
   - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+  - #certificates
+  - #skills
+  - #languages
+  - #interests
+  - #references
